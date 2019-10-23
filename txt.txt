@@ -1,0 +1,11 @@
+Name xyz
+ClientID 13
+ClientSecret 95d1615c3-478b-9c4e-da0a-d2eaee0f247
+GrantType Password
+
+O Auth
+https://play.dhis2.org/2.33.0/api/oAuth2Clients
+https://dhis-backup.sidhas.org/fhi360/api/oAuth2Clients
+
+Event Charts
+https://play.dhis2.org/2.33.0/api/eventCharts
